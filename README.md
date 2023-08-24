@@ -80,14 +80,3 @@ character_dict = {'Benjamin': "en-GB-RyanNeural",
 
 📼 Finally, we save the completed video, combining the slide videos and character animation videos. The resulting video is now ready to be shared! 🎉 To bring it all together, we rely on FastAPI for the backend, and for the frontend, we utilize Next.js and Tailwind CSS. 🚀
 
-# ❤️ Thanks
-If you found this interesting check out Alystria AI for more fun projects
-```sh
-https://www.linkedin.com/company/alystria-ai
-```
-
-- 🌐 Github: https://github.com/AkshitIreddy
-- 💡 LinkedIn: https://www.linkedin.com/in/akshit-ireddy
-- ✍️ Medium: https://medium.com/@akshit.r.ireddy
-- 🐤 Twitter: https://twitter.com/akshit_ireddy
-
